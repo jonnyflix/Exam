@@ -1,0 +1,14 @@
+---
+title: "7:00 Section"
+output: html_document
+---
+#Jonas Weller
+#October 19,2017
+
+Here is some arithmetic:
+```{r}
+x<-8
+y<-10
+x^2/y
+```
+
